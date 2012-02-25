@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="texas" id="0" name="AddressIntegrationTestsTests" package="" tests="2" time="2.968" timestamp="2010-02-26T05:10:13">
+      <properties />
+
+      <testcase classname="AddressIntegrationTestsTests" name="testAddAddressToPerson" time="2.39" />
+
+      <testcase classname="AddressIntegrationTestsTests" name="testAddAddressesToPerson" time="0.062" />
+
+      <system-out><![CDATA[--Output from testAddAddressToPerson--
+--Output from testAddAddressesToPerson--
+Mike Miller Addresses:[Main
+FM, TX 75022, Post
+TM, TX 75066, Turner
+Allen, TX 752022, Baker
+Addison, TX 75622, Elm
+AM, TX 75025]
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testAddAddressToPerson--
+--Output from testAddAddressesToPerson--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="texas" id="1" name="UserIntegrationTests" package="" tests="1" time="0.063" timestamp="2010-02-26T05:10:16">
+      <properties />
+
+      <testcase classname="UserIntegrationTests" name="testSomething" time="0.032" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+</testsuites>
